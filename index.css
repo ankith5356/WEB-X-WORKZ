@@ -1,0 +1,19 @@
+h1,h2,h4,h5,h6{
+    text-align: center;
+   color: red;
+}
+div{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+span[id=q]{
+    color: blue;
+}
+input{
+
+    background-color: aqua;
+}
+span[id="green"]{
+    color: green;
+}
